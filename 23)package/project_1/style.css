@@ -1,0 +1,13 @@
+:root{
+    --color:#ffa500;
+}
+.btn{
+    background-color: blue;
+    display: block;
+    margin-top: 1rem;
+    color: aliceblue;
+    padding: .5rem 13rem;
+    border: .2rem solid var( --color);
+    cursor: pointer;
+    font-size: 1.7rem;
+}
